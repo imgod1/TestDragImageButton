@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--可以拖动的ImageButton的变量-->
+    <declare-styleable name="DragImageButton">
+        <attr name="canDrag" format="boolean"/>
+        <attr name="canAttach" format="boolean"/>
+    </declare-styleable>
+</resources>
